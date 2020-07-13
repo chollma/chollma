@@ -3,7 +3,9 @@
 I'm a life-long learner and individual contributor with a passion for developing digital products that are fast, sustainable, and accessible for all. 
 
 
-
+## Find me around the web:
+- 💬 Reacting to the world in realtime on <a href="https://twitter.com/CooperHollmaier">Twitter</a>
+- 
 <!--
 **chollma/chollma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
