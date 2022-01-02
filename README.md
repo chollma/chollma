@@ -3,8 +3,8 @@
 I'm a life-long learner and individual contributor with a passion for developing digital products that are fast, sustainable, and accessible for all. 
 
 ## Current projects:
-- Supporting the technical search engine optimization (SEO) of digital properties at <a href="https://www.rei.com">Recreational Equipment, Inc.</a>
-- Educating others on how search engine optimization impacts their daily life
+- Supporting accessibility at <a href="https://www.rei.com">Recreational Equipment, Inc.</a>
+- Educating others on how accessibility impacts their daily life.
 - Advocating for diversity, equity, and inclusion.
 
 
